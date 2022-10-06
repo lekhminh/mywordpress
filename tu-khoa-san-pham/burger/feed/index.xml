@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Burger &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/burger/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lekhminh.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 06 Oct 2022 07:10:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Mi Tierra Burger</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/mi-tierra-burger/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/mi-tierra-burger/#respond</comments>
+		
+		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 06:42:56 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=343</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
+
+</div>]]></description>
+										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
+<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
+cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
+Na (mm) -740.1 Sugar(g) – 0</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/mi-tierra-burger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
