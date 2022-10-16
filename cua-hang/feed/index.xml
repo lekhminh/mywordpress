@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lekhminh.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 12 Oct 2022 09:29:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Oct 2022 06:03:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,95 +20,38 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Beef Belly Tacos</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/beef-belly-tacos/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/beef-belly-tacos/#respond</comments>
+		<title>Biltong</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/biltong/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/biltong/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 07:26:15 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=347</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-
-Thing lesser replenish evening called void a sea blessed meat fourth called moveth place behold
-
-</div>]]></description>
-										<content:encoded><![CDATA[<p><img class=" wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="423" height="264" /></p>
-<p><img loading="lazy" class=" wp-image-312 alignright" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="364" height="228" /></p>
-<h3>Details About this mail</h3>
-<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
-cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
-Na (mm) -740.1 Sugar(g) – 0</p>
-<p>&nbsp;</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/beef-belly-tacos/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Classic italian pasta</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/classic-italian-pasta/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/classic-italian-pasta/#respond</comments>
-		
-		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 07:12:43 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=346</guid>
+		<pubDate>Sat, 15 Oct 2022 17:22:28 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=466</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
 Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
 
 </div>]]></description>
-										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img loading="lazy" class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
+										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
 <p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
 cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
 Na (mm) -740.1 Sugar(g) – 0</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/classic-italian-pasta/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/biltong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Hot Pastrami Sandwich</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/hot-pastrami-sandwich/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/hot-pastrami-sandwich/#respond</comments>
+		<title>Bulgogi</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/bulgogi/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/bulgogi/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 06:52:08 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=345</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-
-Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
-
-</div>
-</div>
-</div>]]></description>
-										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img loading="lazy" class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
-<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
-cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
-Na (mm) -740.1 Sugar(g) – 0</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/hot-pastrami-sandwich/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Delicious Cream Cake</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/delicious-cream-cake/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/delicious-cream-cake/#respond</comments>
-		
-		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 06:43:07 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=344</guid>
+		<pubDate>Sat, 15 Oct 2022 17:22:26 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=465</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 <div class="woocommerce-product-details__short-description">
@@ -123,19 +66,48 @@ cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) 
 Na (mm) -740.1 Sugar(g) – 0</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/delicious-cream-cake/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/bulgogi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Mi Tierra Burger</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/mi-tierra-burger/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/mi-tierra-burger/#respond</comments>
+		<title>Paella</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/paella/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/paella/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 06:42:56 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=343</guid>
+		<pubDate>Sat, 15 Oct 2022 17:22:23 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=464</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+
+Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
+
+</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img loading="lazy" class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
+<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
+cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
+Na (mm) -740.1 Sugar(g) – 0</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/paella/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Phở Landmark 81</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/pho-landmark-81/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/pho-landmark-81/#respond</comments>
+		
+		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 17:22:21 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=463</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -148,44 +120,19 @@ cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) 
 Na (mm) -740.1 Sugar(g) – 0</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/mi-tierra-burger/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/pho-landmark-81/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Chocolate Ice Cream</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/chocolate-ice-cream/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/chocolate-ice-cream/#respond</comments>
+		<title>Tom Yum</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/tom-yum/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/tom-yum/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 06:35:27 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=342</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-
-Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
-
-</div>]]></description>
-										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img loading="lazy" class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
-<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
-cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
-Na (mm) -740.1 Sugar(g) – 0</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/chocolate-ice-cream/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>KFC Chicken Fry</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/kfc-chicken-fry/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/kfc-chicken-fry/#respond</comments>
-		
-		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 05:20:32 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=337</guid>
+		<pubDate>Sat, 15 Oct 2022 17:22:21 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=462</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -201,19 +148,19 @@ Na (mm) -740.1 Sugar(g) – 0</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/kfc-chicken-fry/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/tom-yum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Signature BBQ Beef</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/signature-bbq-beef/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/signature-bbq-beef/#respond</comments>
+		<title>Chlodnik</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/chlodnik/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/chlodnik/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 05:20:22 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=332</guid>
+		<pubDate>Sat, 15 Oct 2022 17:22:17 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=461</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -229,24 +176,26 @@ Na (mm) -740.1 Sugar(g) – 0</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/signature-bbq-beef/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/chlodnik/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Burger &#038; Pasta</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/burger-pasta/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/burger-pasta/#respond</comments>
+		<title>B&#8217;stilla (Pastilla)</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/bstilla-pastilla/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/bstilla-pastilla/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 09:30:52 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=330</guid>
+		<pubDate>Sat, 15 Oct 2022 17:22:16 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=460</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
 
-Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
+Open lessegether he also morning land Thing lesser replenish evening called.
 
+</div>
 </div>]]></description>
 										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img loading="lazy" class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
 <p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
@@ -254,24 +203,26 @@ cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) 
 Na (mm) -740.1 Sugar(g) – 0</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/burger-pasta/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/bstilla-pastilla/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Besimo Ice Cream Parlour</title>
-		<link>https://lekhminh.github.io/mywordpress/san-pham/besimo-ice-cream-parlour/</link>
-					<comments>https://lekhminh.github.io/mywordpress/san-pham/besimo-ice-cream-parlour/#respond</comments>
+		<title>Poutine</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/poutine/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/poutine/#respond</comments>
 		
 		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 09:28:02 +0000</pubDate>
-				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=300</guid>
+		<pubDate>Sat, 15 Oct 2022 09:28:14 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=459</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
 
-Thing lesser replenish evening called void a sea blessed meat fourth called moveth place
+Open lessegether he also morning land Thing lesser replenish evening called.
 
+</div>
 </div>]]></description>
 										<content:encoded><![CDATA[<h3 style="margin-bottom: 0.540791em;"><img loading="lazy" class="wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="373" height="233" /><img loading="lazy" class="wp-image-312 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="379" height="237" /><span style="font-size: 1.618em;">Details About this mail</span></h3>
 <p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
@@ -279,7 +230,63 @@ cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) 
 Na (mm) -740.1 Sugar(g) – 0</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/besimo-ice-cream-parlour/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/poutine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Beef Cake</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/beef-cake/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/beef-cake/#respond</comments>
+		
+		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 09:27:43 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=458</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Thing lesser replenish evening called void a sea blessed meat fourth called moveth place behold
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class=" wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="423" height="264" /></p>
+<p><img loading="lazy" class=" wp-image-312 alignright" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="364" height="228" /></p>
+<h3>Details About this mail</h3>
+<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
+cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
+Na (mm) -740.1 Sugar(g) – 0</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/beef-cake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Squeaky Cheese</title>
+		<link>https://lekhminh.github.io/mywordpress/san-pham/squeaky-cheese/</link>
+					<comments>https://lekhminh.github.io/mywordpress/san-pham/squeaky-cheese/#respond</comments>
+		
+		<dc:creator><![CDATA[lekhaiminh]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 09:27:37 +0000</pubDate>
+				<guid isPermaLink="false">https://lekhminh.github.io/mywordpress/?post_type=product&#038;p=457</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Thing lesser replenish evening called void a sea blessed meat fourth called moveth place behold
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class=" wp-image-311 alignleft" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_1.jpg" alt="" width="423" height="264" /></p>
+<p><img loading="lazy" class=" wp-image-312 alignright" src="https://lekhminh.github.io/mywordpress/wp-content/uploads/2022/10/food_description_image_2.jpg" alt="" width="364" height="228" /></p>
+<h3>Details About this mail</h3>
+<p>Enjoy a Veg patty burger made with our in-house whole wheat buns. Topped with rosemary scented onions, gherkins, crunchy lettuce, cheese sauce<br />
+cheese slice. This is one burger you’re going to want to devour.ENERGY (KCAL) – 684.9, Carbs (g) -46.8, Protein (g) – 20.6, Fat (g) -45.9 , Fiber (g)<br />
+Na (mm) -740.1 Sugar(g) – 0</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lekhminh.github.io/mywordpress/san-pham/squeaky-cheese/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
